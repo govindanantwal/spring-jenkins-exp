@@ -17,6 +17,7 @@ class SpringJenkinsExpApplicationTests {
 		logger.info("************Test case checked successfully*********************");
 		System.out.println("Hello Govind");
 		assertEquals(true, true);
+		System.out.println("New Change");
 	}
 
 }
